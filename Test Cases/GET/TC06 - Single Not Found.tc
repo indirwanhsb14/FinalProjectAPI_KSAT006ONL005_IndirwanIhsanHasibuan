@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - List Users</name>
+   <name>TC06 - Single Not Found</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>aff99c42-c77a-4d3b-b6e7-30d33a1bdf6d</testCaseGuid>
+   <testCaseGuid>421cfd0c-c61e-4d06-a76f-26f4f599159c</testCaseGuid>
 </TestCaseEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - Single User</name>
+   <name>TC11 - Register Successful</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ea4c5104-cc1f-4d9d-9a3a-f7d8a204020d</testCaseGuid>
+   <testCaseGuid>4c30b3e5-82a6-4c38-9504-5cdbbd15471b</testCaseGuid>
 </TestCaseEntity>

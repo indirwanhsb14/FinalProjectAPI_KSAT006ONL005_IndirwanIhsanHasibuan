@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - Single</name>
+   <name>TC15 - Delayed Response</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>11fb3bd0-69e9-47f7-8acb-41ef55f3b964</testCaseGuid>
+   <testCaseGuid>28340da1-e13a-48c5-ade0-3648b7f1df02</testCaseGuid>
 </TestCaseEntity>

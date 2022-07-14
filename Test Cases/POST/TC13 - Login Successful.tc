@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - Create</name>
+   <name>TC13 - Login Successful</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a90459cb-f021-4c2c-9fda-e0d2568569b3</testCaseGuid>
+   <testCaseGuid>a91f3bf2-79f3-4825-820a-7cd05d198e37</testCaseGuid>
 </TestCaseEntity>

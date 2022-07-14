@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - List</name>
+   <name>TC09 - Update</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>517d2f70-7e2b-40a3-9820-325d1846c156</testCaseGuid>
+   <testCaseGuid>4588a3da-f9a4-4619-96f3-e0273e5e89f9</testCaseGuid>
 </TestCaseEntity>
