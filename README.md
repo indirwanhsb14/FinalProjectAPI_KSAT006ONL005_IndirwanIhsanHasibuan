@@ -13,7 +13,7 @@ Final Project - API Testing : `reqres.in`
 
 Test Case and endpoints :
     
- Integration Jira : WP-2 Indirwan-TC Login Website
+ Integration Jira : AP-3 IndirwanIhsanHasibuan-TC Login API
     
  1. GET
     - TC01 - List Users `/api/users?page=2`
